@@ -16,6 +16,8 @@ const aURL = [
     "1",
   ],
   ["2196F3", "DX CLUSTER", "https://dxcluster.ha8tks.hu/map/", "1"],
+
+  ["2196F3", "WORLD CLIMATE", "http://wcw.intelliweather.net/imagery/wcw/world_climate_widget_sidebar_166x223.gif", "1"]
   
   [
     "2196F3",
