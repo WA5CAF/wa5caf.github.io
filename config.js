@@ -17,7 +17,6 @@ const aURL = [
   ],
   ["2196F3", "DX CLUSTER", "https://dxcluster.ha8tks.hu/map/", "1"],
   
-  ["2196F3", "MOBILE SHACK", "https://cdn-bio.qrz.com/f/wa5caf/Mobile_Shack.jpg?p=972b3818494dff0ffc521d0b3eb845eb", "1"],
   [
     "2196F3",
     "LIGHTNING",
