@@ -16,7 +16,8 @@ const aURL = [
     "1",
   ],
   ["2196F3", "DX CLUSTER", "https://dxcluster.ha8tks.hu/map/", "1"],
-    ["2196F3", "COWTOWN ARC", "https://www.cowtownarc.org/", "1"],
+  
+  ["2196F3", "COWTOWN ARC", "https://www.cowtownarc.org/home", "1"],
   [
     "2196F3",
     "LIGHTNING",
