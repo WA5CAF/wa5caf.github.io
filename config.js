@@ -80,7 +80,7 @@ const aIMG = [
   ],
   [
     "SATELLITE TEXAS",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/sp/DayNightCloudMicroCombo/GOES16-SP-DayNightCloudMicroCombo-600x600.gif",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/sp/02/GOES16-SP-02-600x600.gif",
   ],
   ["GREY LINE", "https://www.timeanddate.com/scripts/sunmap.php?iso=now"],
   [
